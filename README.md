@@ -6,10 +6,10 @@ This is my Personal Introduction Website, built as part of the CMPA 3301-D02 pro
 This site was built using clean, semantic HTML5 and external CSS styling, following modern web development best practices. It demonstrates proper separation of content (HTML) from presentation and styling (CSS).
 
 ## Live Website
-**[View the live site here](https://landotakman1.github.io)**
+**[View the live site here](https://landotakman1.github.io/)**
 
 ## Features
-- Semantic HTML structure ('<header>', '<main>', '<section>', '<footer>')
+- Semantic HTML structure
 - Responsive design with custom dark theme
 - External stylesheet ('style.css')
 - Clear sections for introduction, goals, and hobbies
