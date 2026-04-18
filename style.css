@@ -1,0 +1,22 @@
+body {
+    background-color: #060204;
+}
+div {
+    padding: 20px;
+}
+#text-block {
+    padding: 30px;
+}
+.color-title {
+    color: #af9085;
+}
+a {
+    color: #912720;
+}
+p {
+    color: #d83221;
+    font-family: Cambria;
+}
+li {
+    color: #d83221;
+}
